@@ -38,3 +38,12 @@ kr2-bootstrap-shop/
 │   └── custom.css
 ├── README.md
 └── .gitignore
+
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://anastasiasemenovna.github.io/kr1-html-css-shop/
+
+## Автор
+
+ФИО: Юферева Анастасия Алексеевна
+Группа: ЭФБО-13-25
