@@ -41,7 +41,7 @@ kr2-bootstrap-shop/
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://anastasiasemenovna.github.io/kr1-html-css-shop/
+GitHub Pages: https://anastasiasemenovna.github.io/kr2-html-css-shop/
 
 ## Автор
 
